@@ -1,0 +1,5 @@
+D:/Workspace/TEST/CMakeLearn/_Real/add-include/_builds/CMakeFiles/ALL_BUILD.dir
+D:/Workspace/TEST/CMakeLearn/_Real/add-include/_builds/CMakeFiles/ZERO_CHECK.dir
+D:/Workspace/TEST/CMakeLearn/_Real/add-include/_builds/moduleA/CMakeFiles/A.dir
+D:/Workspace/TEST/CMakeLearn/_Real/add-include/_builds/moduleB/CMakeFiles/B.dir
+D:/Workspace/TEST/CMakeLearn/_Real/add-include/_builds/src/CMakeFiles/myExe.dir
